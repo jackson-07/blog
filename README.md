@@ -1,2 +1,3 @@
 # blog
-my new blog to record my introduction to programming.
+
+https://jackson-07.github.io/blog/
